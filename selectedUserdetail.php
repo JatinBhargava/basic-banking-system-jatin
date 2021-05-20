@@ -88,10 +88,10 @@ window.location='transactionDetails.php';
 <nav class="navbar navbar-inverse">
         <div class="container-fluid">
             <div class="navbar-header">
-                <a class="navbar-brand" href="./home.php">Sparks</a>
+                <a class="navbar-brand" href="./index.php">Sparks</a>
             </div>
             <ul class="nav navbar-nav">
-                <li class="active"><a href="./home.php">Home</a></li>
+                <li class="active"><a href="./index.php">Home</a></li>
                 <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#"> Services <spanclass="caret"></span></a>
                     <ul class="dropdown-menu">
                         <li><a href="./viewusers.php"> Customer Details </a></li>
