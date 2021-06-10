@@ -170,7 +170,7 @@ s Transfer From: </label><br/>
         </form>
     </div>
     <footer class="container-fluid bg-4 text-center">
-    <p> Copyright © 2020 HP</p>
+    <p> Copyright © 2021</p>
     <p>JB amoun Management System</p>
    
    <p>JB Amount Management System Powered by The Sparks Foundation</p>

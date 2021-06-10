@@ -13,7 +13,7 @@
     <div class="nav">
         <div class="menu">
              <ul>
-                 <li><a href="./home.php">Home</a></li>
+                 <li><a href="./index.php">Home</a></li>
                  <li><a href="./viewusers.php">Contact</a></li>
                  <li><a href="./transactionDetails.php">History</a> </li>
                  <li><a href="./aboutus.html">About Us</a> </li>
